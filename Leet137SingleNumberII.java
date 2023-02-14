@@ -4,6 +4,6 @@ public class Leet137SingleNumberII {
         System.out.println(singleNumber(nums));
     }
     public static int singleNumber(int[] nums) {
-
+        return 0;
     }
 }
